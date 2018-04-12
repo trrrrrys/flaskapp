@@ -1,4 +1,4 @@
-NAME=testpj
+NAME=flaskapp
 
 run:
 	docker-compose build
